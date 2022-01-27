@@ -1,6 +1,6 @@
 <h3 align="center">👋🏻 Hello There! I'm Madan Neupane</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Graduate;Freelance+Web+Developer+and+Python+Programmer;Aspiring+Data+Scientist;&font=Exo%202&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Graduate;Web+Developer;Python+Programmer;Aspiring+Data+Scientist;&font=Exo%202&center=true&width=380&height=50">
 </p>
 
 ### 🛠️ Tools
